@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigRest_20190140052_OkkyHaryanto", "ServerConfigRest_20190140052_OkkyHaryanto\ServerConfigRest_20190140052_OkkyHaryanto.csproj", "{66236235-9B79-419F-9934-8353DD697CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66236235-9B79-419F-9934-8353DD697CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66236235-9B79-419F-9934-8353DD697CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66236235-9B79-419F-9934-8353DD697CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66236235-9B79-419F-9934-8353DD697CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB32BFC-E028-41E8-8751-1CAF0AC999AE}
+	EndGlobalSection
+EndGlobal
